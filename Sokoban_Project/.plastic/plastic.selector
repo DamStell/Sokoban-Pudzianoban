@@ -1,0 +1,4 @@
+repository "Sokoban_Project@Sokoban_PG_Project@cloud"
+  path "/"
+    br "/main"
+    co "/main"
